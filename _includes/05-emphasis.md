@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Food is a passion of mine.  I love to *eat*.  I love to *cook*.  I like using **classic** and **modern** cooking techniques.
